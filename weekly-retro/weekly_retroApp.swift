@@ -18,4 +18,3 @@ struct weekly_retroApp: App {
         }
     }
 }
-x
